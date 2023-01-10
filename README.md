@@ -22,4 +22,4 @@ This is my Individual Progress Document. It will be updated weekly, from Week 1 
 - [ ] Week 15
 
 ## COMPLETE
-- [x] Week 1 - created repo and this Individual Process Document file
+- [x] Week 1 - created repo and the Individual Process Document.txt file
