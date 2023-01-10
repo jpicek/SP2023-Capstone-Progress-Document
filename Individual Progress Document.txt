@@ -4,3 +4,10 @@ CPSC 49200-0003, Spring 2023
 Capstone - Software Systems
 Lewis University
 1/9/2023
+
+next up:
+Week 2:
+...
+
+Week 1:
+Created the repository and the Individual Process Document
