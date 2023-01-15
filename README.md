@@ -1,7 +1,7 @@
 # SP2023-Capstone-Progress-Document Repository README.md
 
 #### Description
-This is my Individual Progress Document. It will be updated weekly, from Week 1 through Week 15 of our 16 week class.
+This repository is my Individual Progress Document. It will be updated weekly, from Week 1 through Week 15 of our 16 week class.
 
 **********
 ## TO DO
