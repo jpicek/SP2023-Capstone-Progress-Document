@@ -6,8 +6,11 @@ Lewis University
 1/9/2023
 
 next up:
+Week 3:
+Next week, in Week 3, we will hopefully have our teams and projects decided and begin work on them. It would probably be a good idea to start by agreeing on scheduling and communication expectations. Ideally, we would find a good time for the team to meet, possibly once or twice per week in a group audio- or video-call. We would also agree on some software or platforms to use to facilitate that communication (Slack, Teams, Discord, email, etc) and another solution to use for file sharing. I expect we will use Github for the repository, but some people may expect to use other services like Google Docs, Google Drive, OneDrive, email, or more for brainstorming and temporary working files.
+
 Week 2:
-Next week, in Week 2, I will complete any Week 2 Assignments related to the project and document it here.
+In Week 2, I am working on the react.js tutorial. I will update with more details on my progress afterwards.
 
 Week 1:
 In Week 1, I created the repository, the README.md, and the Individual Process Document.txt.
