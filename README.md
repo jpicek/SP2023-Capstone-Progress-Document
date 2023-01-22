@@ -6,7 +6,6 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 **********
 ## TO DO
 
-- [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
@@ -22,4 +21,5 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 - [ ] Week 15
 
 ## COMPLETE
-- [x] Week 1 - created repo, this README, and the Individual Process Document.txt file
+- [x] Week 2 - updated Progress Document, worked on React.js tutorial, also thinking ahead and planning for Week 3
+- [x] Week 1 - created repo, this README, and the Individual Progress Document.txt file
