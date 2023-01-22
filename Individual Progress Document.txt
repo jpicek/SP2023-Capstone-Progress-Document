@@ -3,10 +3,10 @@ Dr. Michael Lewis
 CPSC 49200-0003, Spring 2023
 Capstone - Software Systems
 Lewis University
-1/9/2023
+Spring 2023
 
 next up:
-Week 3:
+Week 3 (due 1/29):
 Next week, in Week 3, we will hopefully have our teams and projects decided and begin work on them.
 
 It would probably be a good idea to start by agreeing on scheduling and communication expectations.
@@ -19,10 +19,10 @@ but some people may expect to use other services like
   - Google Docs, Google Drive, OneDrive, email, or others
 for brainstorming and temporary working files.
 
-Week 2:
+Week 2 (submitted 1/22):
 In Week 2, I am working on the react.js tutorial. I will update with more details on my progress afterwards.
 
-Week 1:
+Week 1 (submitted 1/15):
 In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I
 have decided to detail this process more thoroughly:
   1. I created a new repository on my existing Github account.
