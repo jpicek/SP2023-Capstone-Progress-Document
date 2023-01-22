@@ -8,13 +8,15 @@ Lewis University
 next up:
 Week 3:
 Next week, in Week 3, we will hopefully have our teams and projects decided and begin work on them.
+
 It would probably be a good idea to start by agreeing on scheduling and communication expectations.
 Ideally, we would find a good time for the team to meet, possibly once or twice per week in a group audio- or video-call.
+
 We would also agree on some software or platforms to use to facilitate that communication, such as
-  Slack, Teams, Discord, email, or others
+  - Slack, Teams, Discord, email, or others
 and another solution to use for file sharing. I expect we will use Github for the repository,
 but some people may expect to use other services like
-  Google Docs, Google Drive, OneDrive, email, or others
+  - Google Docs, Google Drive, OneDrive, email, or others
 for brainstorming and temporary working files.
 
 Week 2:
