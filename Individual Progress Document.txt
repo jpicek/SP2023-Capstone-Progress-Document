@@ -33,28 +33,34 @@ have decided to detail this process more thoroughly:
        and possibly contribute at a later point (the owner needs to allow this individually later on).
        Private would not allow others to view at all.
     e. Click the green "Create Repository" at the bottom.
-  2. I already had Git-Bash installed from a previous class, but I had to update, which did an uninstall and reinstall of the newest version.
-     Now I needed to assign the local folder to the repository, so I...
+  2. Now I needed to assign the local folder to the repository. I already had Git-Bash installed from a previous class, but I had to update, which did an uninstall and reinstall of the newest version, so I...
     a. Open Git-Bash, which is a Command Line Interface for GitHub similar to the Command Prompt or Terminal available on most Operating Systems
     b. Navigated to the correct local folder with the "cd" command: ie "cd D:Documents/School/Lewis" etc
     c. First, I must initialize this directory as the local directory for the repository with the command "git init"
        This sets up the intial github files for version control and tracking in a hidden folder inside the current folder,
-       There are many optional flags for this command
-    d. Next, I created the Individual Progress Document.txt file through Notepad locally, and saved it.
-    e. Using the command "git add .", I stage all of the files in the current working directory for commit to the repository.
-    f. Using the command "git commit -m "Initial repo and starting file creation" the message is stored, and
+       * There are many optional flags for this command
+  3. Next, I created the Individual Progress Document.txt file through Notepad locally, and saved it.
+    a. Using the command "git add .", I stage all of the files in the current working directory for commit to the repository.
+       * There are many optional flags for this command
+    b. Using the command "git commit -m "Initial repo and starting file creation" the message is stored, and
        the files are confirmed, ready to be sent to the repository.
-    g. Just the first time, prior to pushing the files, we must assign the remote URL of the repository.
+    c. Just the first time, prior to pushing the files, we must assign the remote URL of the repository.
        From the Repository main page, click the green Code button dropdown, then the Local tab, and copy the Repository URL
        For mine it is https://github.com/jpicek/SP2023-Capstone-Progress-Document.git
        Then, back in Git-Bash, use the command "git remote add origin https://github.com/jpicek/SP2023-Capstone-Progress-Document.git"
        to link the local folder to the remote repository.
-    h. Finally, push the locally created or edited files that were staged (in step e) and committed with a message (in step f)
-       Use the command "git push" (there are also a lot of optional flags for this command)
+    d. Finally, push the locally created or edited files that were staged (in step 3a) and committed with a message (in step 3b)
+       Use the command "git push" 
+       * There are many optional flags for this command
+       
+NOTE: Since Step 3c is only necessary once, file adds/edits/deletions going forward are mainly a 3 step process of:
+  git add . (the . prevents deletion of files, if you want deletions as well, that's "git add -A"
+  git commit -m "the message for this commit"
+  git push
     
-    Additionally, small or non-code edits may be done through the GitHub website. I created the README.md file on there, 
-    to give the Repository a landing page and a little more organization. I have made these .txt file edits on the website.
-    
-    Code edits should and will be done outside of the website though, as it has no syntax checking or testing. Coding should
-    be done in an IDE if possible and at least tested, documented, and confirmed to be working (well, mostly...) before
-    submission to a repository, but text edits like this are fine to do through the website.
+Additionally, small or non-code edits may be done through the GitHub website. I created the README.md file on there, 
+to give the Repository a landing page and a little more organization. I have made these .txt file edits on the website.
+
+Code edits should and will be done outside of the website though, as it has no syntax checking or testing. Coding should
+be done in an IDE if possible and at least tested, documented, and confirmed to be working (well, mostly...) before
+submission to a repository, but text edits like this are fine to do through the website.
