@@ -23,4 +23,37 @@ Week 2:
 In Week 2, I am working on the react.js tutorial. I will update with more details on my progress afterwards.
 
 Week 1:
-In Week 1, I created the repository, the README.md, and the Individual Process Document.txt.
+In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I will detail this process more thoroughly:
+  1. I created a new repository on my existing Github account.
+    a. Go to https://www.github.com and sign in or create an account, like any other website/service/app.
+    b. From the left side navigation panel, next to the "Top Repositories" header, click the green "New" button
+    c. Set the Owner (myself) and enter a Repository Name, both required
+    d. Set to Public in this case as I want Dr. Lewis or others to be able to see,
+       and possibly contribute at a later point (the owner needs to allow this individually later on).
+       Private would not allow others to view at all.
+    e. Click the green "Create Repository" at the bottom.
+  2. I already had Git-Bash installed from a previous class, but I had to update, which did an uninstall and reinstall of the newest version.
+     Now I needed to assign the local folder to the repository, so I...
+    a. Open Git-Bash, which is a Command Line Interface for GitHub similar to the Command Prompt or Terminal available on most Operating Systems
+    b. Navigated to the correct local folder with the "cd" command: ie "cd D:Documents/School/Lewis" etc
+    c. First, I must initialize this directory as the local directory for the repository with the command "git init"
+       This sets up the intial github files for version control and tracking in a hidden folder inside the current folder,
+       There are many optional flags for this command
+    d. Next, I created the Individual Progress Document.txt file through Notepad locally, and saved it.
+    e. Using the command "git add .", I stage all of the files in the current working directory for commit to the repository.
+    f. Using the command "git commit -m "Initial repo and starting file creation" the message is stored, and
+       the files are confirmed, ready to be sent to the repository.
+    g. Just the first time, prior to pushing the files, we must assign the remote URL of the repository.
+       From the Repository main page, click the green Code button dropdown, then the Local tab, and copy the Repository URL
+       For mine it is https://github.com/jpicek/SP2023-Capstone-Progress-Document.git
+       Then, back in Git-Bash, use the command "git remote add origin https://github.com/jpicek/SP2023-Capstone-Progress-Document.git"
+       to link the local folder to the remote repository.
+    h. Finally, push the locally created or edited files that were staged (in step e) and committed with a message (in step f)
+       Use the command "git push" (there are also a lot of optional flags for this command)
+    
+    Additionally, small or non-code edits may be done through the GitHub website. I created the README.md file on there, 
+    to give the Repository a landing page and a little more organization. I have made these .txt file edits on the website.
+    
+    Code edits should and will be done outside of the website though, as it has no syntax checking or testing. Coding should
+    be done in an IDE if possible and at least tested, documented, and confirmed to be working (well, mostly...) before
+    submission to a repository, but text edits like this are fine to do through the website.
