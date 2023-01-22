@@ -42,7 +42,7 @@ have decided to detail this process more thoroughly:
   3. Next, I created the Individual Progress Document.txt file through Notepad locally, and saved it.
     a. Using the command "git add .", I stage all of the files in the current working directory for commit to the repository.
        * There are many optional flags for this command
-    b. Using the command "git commit -m "Initial repo and starting file creation" the message is stored, and
+    b. Using the command "git commit -m "Initial repo and starting file creation"" the message is stored, and
        the files are confirmed, ready to be sent to the repository.
     c. Just the first time, prior to pushing the files, we must assign the remote URL of the repository.
        From the Repository main page, click the green Code button dropdown, then the Local tab, and copy the Repository URL
