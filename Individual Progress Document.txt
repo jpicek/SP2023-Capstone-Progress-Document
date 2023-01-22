@@ -23,7 +23,8 @@ Week 2:
 In Week 2, I am working on the react.js tutorial. I will update with more details on my progress afterwards.
 
 Week 1:
-In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I will detail this process more thoroughly:
+In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I
+have decided to detail this process more thoroughly:
   1. I created a new repository on my existing Github account.
     a. Go to https://www.github.com and sign in or create an account, like any other website/service/app.
     b. From the left side navigation panel, next to the "Top Repositories" header, click the green "New" button
