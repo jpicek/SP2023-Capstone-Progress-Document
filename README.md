@@ -3,6 +3,8 @@
 #### Description
 This repository is my Individual Progress Document. It will be updated weekly, from Week 1 through Week 15 of our 16 week class.
 
+[The Individual Progress Document is now available here at http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm](http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm)
+
 **********
 ## TO DO
 
@@ -21,5 +23,5 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 - [ ] Week 15
 
 ## COMPLETE
-- [x] Week 2 - updated Progress Document, added detail for Week 1 steps, worked on React.js tutorial in Week 2, thinking ahead and planning for Week 3
+- [x] Week 2 - updated Progress Document, redesigned it in HTML, added detail for Week 1 steps, completed React.js tutorial in Week 2, thinking ahead and planning for Week 3
 - [x] Week 1 - created repo, this README, and the Individual Progress Document.txt file
