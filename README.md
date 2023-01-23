@@ -3,7 +3,8 @@
 #### Description
 This repository is my Individual Progress Document. It will be updated weekly, from Week 1 through Week 15 of our 16 week class.
 
-[The Individual Progress Document is now available here at http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm](http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm)
+[The Individual Progress Document is now viewable here at:
+http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm](http://htmlpreview.github.io/?https://github.com/jpicek/SP2023-Capstone-Progress-Document/main/Individual%20Progress%20Document.htm)
 
 **********
 ## TO DO
