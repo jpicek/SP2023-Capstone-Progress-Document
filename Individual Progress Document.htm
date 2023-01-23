@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Individual Progress Document</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="ipd.css" rel="stylesheet">
+</head>
+<body>
+<div id="wrapper">
+<header>
+<h1>Individual Progress Document</h1>
+</header>
+<div class="darkdivider"></div>
+<main>
+	<h3><br>
+	Johnathan Picek<br>
+	Dr. Michael Lewis<br>
+	CPSC 49200-0003<br>
+	Software Systems Capstone<br>
+	Lewis University<br>
+	Spring 2023
+	</h3>
+
+	<div class="divider"></div>
+
+	<h3>next up:</h3>
+	<div class="divider"></div>
+	
+	<div class="weeklyUpdate">
+		<h4>Week 3 (due 1/29):</h4><br>
+		Next week, in Week 3, we will hopefully have our teams and projects decided and begin work on them.It would probably be a good idea to start by agreeing on scheduling and communication expectations. Ideally, we would find a good time for the team to meet, possibly once or twice per week in a group audio- or video-call.
+
+		We would also agree on some software or platforms to use to facilitate that communication, such as
+		  - Slack, Teams, Discord, Zoom, email, or others
+		and another solution to use for file sharing. I expect we will use Github for the repository,
+		but some people may expect to use other services like
+		  - Google Docs, Google Drive, OneDrive, email, or others
+		for brainstorming and temporary working files.
+	</div>
+	
+	<div class="divider"></div>
+
+	<h3>completed:</h3>
+	<div class="divider"></div>
+
+	<div class="weeklyUpdate">
+		<h4>Week 2 (submitted 1/22):</h4><br>
+		In Week 2, I have converted my Individual Progress Document into an HTML file both for practice and in order to add some style, pictures, and more. The css is not fully implemented yet, so it is pretty plain and still a work in progress, but it is prettier than the text document. I also have completed the react.js tutorial. The full code is <a href="tic-tac-toe.js">here</a>, and here is a screenshot of the completed tutorial:<br><br>
+		<img src="images/react-js-tutorial.png" width="80%"/>
+	</div>
+	
+	<div class="divider"></div>
+
+	<div class="weeklyUpdate">
+		<h4>Week 1 (submitted 1/15):</h4><br>
+		In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I have decided to detail this process more thoroughly:<br>
+		<ol type="1">
+			<li>I created a new repository on my existing Github account.</li>
+			<ol type="a">
+				<li>Go to https://www.github.com and sign in or create an account, like any other website/service/app.</li>
+				<li>From the left side navigation panel, next to the "Top Repositories" header, click the green "New" button</li>
+				<li>Set the Owner (myself) and enter a Repository Name, both required</li>
+				<li>Set to Public in this case as I want Dr. Lewis or others to be able to see, and possibly contribute at a later point (the owner needs to allow this individually later on).<br>
+				Private would not allow others to view at all.</li>
+				<li>Click the green "Create Repository" at the bottom.</li>
+			</ol>
+			</li>
+			
+			<div class="divider"></div>
+			
+			<li>Now I needed to assign the local folder to the repository. I already had Git-Bash installed from a previous class, but I had to update, which did an uninstall and reinstall of the newest version. With that done, I...</li>
+			<ol type="a">
+				<li>Open Git-Bash, which is a Command Line Interface for GitHub similar to the Command Prompt or Terminal available on most Operating Systems</li>
+				<li>Navigated to the correct local folder with the "cd" command:
+				<div class="code">
+				<code>cd D:Documents/School/Lewis</code> &emsp;(further folders not shown)
+				</div>
+				</li>
+				<li>First, I must initialize this directory as the local directory for the repository with the command "git init"
+				<div class="code"><code>git init</code>
+				</div>
+				This sets up the intial github files for version control and tracking in a hidden folder inside the current folder,<br>
+				&emsp;*** There are many optional flags for this command</li>
+			</ol>
+			
+			<div class="divider"></div>
+			
+			<li>Next, I created the Individual Progress Document.txt file through Notepad locally, and saved it.</li>
+			<ol type="a">
+			<li>Using the command "git add .", I stage all of the files in the current working directory for commit to the repository.
+			   * There are many optional flags for this command</li>
+			<li>Using the command "git commit -m "message here" like so:
+				<div class="code"><code>
+				git commit -m "Initial repo and starting file creation"</code>
+				</div>
+				the message is stored, and the files are confirmed, ready to be sent to the repository.<br>
+				&emsp;*** There are many optional flags for this command</li>
+			<li>Just the first time, prior to pushing the files, we must assign the remote URL
+			of the repository.
+			   From the Repository main page, click the green Code button dropdown, then the Local tab, and copy the Repository URL
+			   For mine it is https://github.com/jpicek/SP2023-Capstone-Progress-Document.git and the command is "git remote add origin URL". So, back in Git-Bash, I entered
+			   <div class="code"><code>git remote add origin https://github.com/jpicek/SP2023-Capstone-Progress-Document.git</code>
+			   </div>
+			   to link the local folder to the remote repository.</li>
+			<li>Finally, push the locally created or edited files that were staged (in step 3a) and committed with a message (in step 3b)
+			   Use the command "git push" 
+			   &emsp;*** There are many optional flags for this command</li>
+			   </ol>
+		</ol>
+			   
+		NOTE: Since Step 3c is only necessary once, file adds/edits/deletions going forward are mainly a 3 step process of:<br>
+		<ul type="none">
+		<li><code>git add .</code> (the . prevents deletion of files, if you want deletions as well, that's <code>"git add -A"</code></li>
+		<li><code>git commit -m "the message for this commit"</code></li>
+		<li><code>git push</code></li>
+		</ul>
+			
+		Additionally, small or non-code edits may be done through the GitHub website. I created the README.md file on there, to give the Repository a landing page and a little more organization. I have made these .txt file edits on the website.<br><br>
+
+		Code edits should and will be done outside of the website though, as it has no syntax checking or testing. Coding should be done in an IDE if possible and at least tested, documented, and confirmed to be working (well, mostly...) before submission to a repository, but text edits like this are fine to do through the website.
+	</div>
+</main>
+<!--  Not necessary to display, but might later
+<footer>
+Copyright &copy; 2023 Johnathan Picek
+</div>
+</footer>
+-->
+</div>
+</body>
+</html>
