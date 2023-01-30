@@ -10,7 +10,6 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 **********
 ## TO DO
 
-- [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
 - [ ] Week 6
@@ -25,5 +24,6 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 - [ ] Week 15
 
 ## COMPLETE
-- [x] Week 2 - updated Progress Document, redesigned it in HTML, added detail for Week 1 steps, completed React.js tutorial in Week 2, thinking ahead and planning for Week 3
+- [x] Week 3 - Project team has been formed, idea approved by Dr. Lewis, collaborative brainstorming, feature & function planning begun
+- [x] Week 2 - Redesigned Progress Document in HTML, more detail for Week 1, completed React.js tutorial, planning ahead
 - [x] Week 1 - created repo, this README, and the Individual Progress Document.txt file
