@@ -6,7 +6,17 @@ Lewis University
 Spring 2023
 
 next up:
+Week 4 (due 2/5):
+Our team has tentatively decided to meet each Tuesday immediately after the class meeting. We intend to ask for clarification on the scope of the project assignment this week, and after that we will continue with our planning and and refining of the specifics of application.
+
+We could also come up with a team name, I guess, since we haven't yet!
+
+
 Week 3 (due 1/29):
+In Week 3, I took the initiative to message Joseph Eisman to begin forming our team. I enjoyed some of his discussion board posts in previous classes (Discrete Math specifically I think) and in this class, so I thought it would be nice to form a team with him. After agreeing in direct messages in Zoom chat, I added us to the spreadsheet with the note "open to 2 more members." Not long after, Kimberly Johnson added her name. Still needing a 4th, I invited Valine for the same reason as Joe -- I enjoyed reading his perspective on discussion boards in this class and other classes. Kim invited us all to a Discord server before the class Zoom session closed.
+Because of our quick communication and eagerness to develop a project idea, we were able to meet for a few hours after the Tuesday class session, and again on Thursday. We settled on what was originally Kim's idea, but with input from all 4 of us, a localized charity connection portal. We researched similar resources, brainstormed some of the features and functions, collaborated via a mindmap to flesh out the idea in more detail, and obtained approval from Dr. Lewis on Tuesday. We voice chatted for about 5 hours total over across Tuesday and Thursday.
+
+(Planning, from Week 2, kept below):
 Next week, in Week 3, we will hopefully have our teams and projects decided and begin work on them.
 
 It would probably be a good idea to start by agreeing on scheduling and communication expectations.
@@ -20,7 +30,8 @@ but some people may expect to use other services like
 for brainstorming and temporary working files.
 
 Week 2 (submitted 1/22):
-In Week 2, I am working on the react.js tutorial. I will update with more details on my progress afterwards.
+In Week 2, I have converted my Individual Progress Document into an HTML file both for practice and in order to add some style, pictures, and more. The css is not fully implemented yet, so it is pretty plain and still a work in progress, but it is prettier than the text document. I also have completed the react.js tutorial. The full code is <a href="tic-tac-toe.js">here</a>, and here is a screenshot of the completed tutorial:<br><br>
+		<img src="images/react-js-tutorial.png" width="80%"/>
 
 Week 1 (submitted 1/15):
 In Week 1, I created the repository, the README.md, and the Individual Process Document.txt. In response to Dr. Lewis's feedback, I
