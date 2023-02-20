@@ -10,7 +10,6 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 **********
 ## TO DO
 
-- [ ] Week 6
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
@@ -22,6 +21,7 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 - [ ] Week 15
 
 ## COMPLETE
+- [x] Week 6 - Weekly Tuesday group meeting (after class), Use Cases detailed, began work on the "Database" portion of the project manual
 - [x] Week 5 - created shared project manual doc and made an outline for it, analyzing project w/ software engineering approach
 - [x] Week 4 - Added Matt to the group, more planning, collaboration, and research, and began design and tools discussions
 - [x] Week 3 - Project team has been formed, idea approved by Dr. Lewis, collaborative brainstorming, feature & function planning begun
