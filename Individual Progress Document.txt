@@ -6,11 +6,17 @@ Lewis University
 Spring 2023
 
 next up:
-Week 6 (due 2/19):
-We are approximately 4 (or 5, depending on if we have a week of no assignments due to Spring Break) weeks away from the first project deliverable due in Week 10. It will be very important going forward to make significant progress towards that each week. We will need to solidify our weekly goals/agenda to keep up with that progress.
+Week 7 (due 2/26):
+For next week, we will need to make more concrete progress. We are 3 or 4 weeks from the Manual draft deliverable due date, so ideally we should begin getting words onto the page (aside from just the format/outline that I have created).
 
 
 completed:
+Week 6 (due 2/19):
+This week, we held our weekly Tuesday group meeting just after the class session as usual. We decided to stick with the spaces.W3Schools.com hosting platform. Individually, I completed the Use Cases table that I had begun last week, which will help us recognize the distinct needs of each of our app's different user types. Some of us also picked sections of the Project Manual to begin writing a portion of. Tentatively, I am working on the Data/Database section.
+
+(Planning, from Week 5, kept below):
+We are approximately 4 (or 5, depending on if we have a week of no assignments due to Spring Break) weeks away from the first project deliverable due in Week 10. It will be very important going forward to make significant progress towards that each week. We will need to solidify our weekly goals/agenda to keep up with that progress.
+
 Week 5 (due 2/12):
 In Week 5, I created a shared file through my Lewis University Office account with a sharable Sharepoint link that we will use to collaborate on the Project Manual Draft 1, due in Week 10. I built an Outline of the submission and added the Rubric details to it in order to easily refer to it while we are writing the manual. I also began analyzing our project with a Software Engineering approach, beginning with developing User Stories and Use Cases to have a greater understanding of the expectations of our various stakeholders.
 
