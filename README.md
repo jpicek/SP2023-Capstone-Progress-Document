@@ -10,7 +10,6 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 **********
 ## TO DO
 
-- [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
 - [ ] Week 10
@@ -21,6 +20,7 @@ This repository is my Individual Progress Document. It will be updated weekly, f
 - [ ] Week 15
 
 ## COMPLETE
+- [x] Week 7 - MySQL & React tutorials are working properly, able to create, read, update, and delete successfully
 - [x] Week 6 - Weekly Tuesday group meeting (after class), Use Cases detailed, began work on the "Database" portion of the project manual
 - [x] Week 5 - created shared project manual doc and made an outline for it, analyzing project w/ software engineering approach
 - [x] Week 4 - Added Matt to the group, more planning, collaboration, and research, and began design and tools discussions
