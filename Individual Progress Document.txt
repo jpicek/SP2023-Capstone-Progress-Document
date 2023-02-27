@@ -6,11 +6,21 @@ Lewis University
 Spring 2023
 
 next up:
-Week 7 (due 2/26):
-For next week, we will need to make more concrete progress. We are 3 or 4 weeks from the Manual draft deliverable due date, so ideally we should begin getting words onto the page (aside from just the format/outline that I have created).
+Week 8 (due 3/5):
+For next week, we will continue progress on the Project Manual, the database integration, and the app forms for user account sign-ups. Others are working on the application flow and sample charity data to populate the database. We should ideally have a working prototype by week 10, at least able to create, read, update, and delete entries into the database. This will allow the site's main functionality, which is searching.
 
 
 completed:
+Week 7 (due 2/26):
+This week, as a group, we agreed upon most of our exact tools and technologies that will be used. React, JS, and SQL. Most of us, myself included, chose portions of the Project Manual to work on. We discussed the data needed for the tables of the database, which we will need for the app to operate. From there, I created a SQL database based on the agreed upon data.
+
+Using the same data fields, others are working on the form implementation for account creation. By Sunday 2/26, I had a working React Front End to SQL Backend tutorial fully operational, which performs all CRUD (create, read, update, and delete) functions. The sources are https://github.com/bezkoder/nodejs-express-sequelize-mysql
+and https://github.com/bezkoder/react-crud-web-api and I have included screenshots as well.
+
+(Planning, from Week 6, kept below):
+For next week, we will need to make more concrete progress. We are 3 or 4 weeks from the Manual draft deliverable due date, so ideally we should begin getting words onto the page (aside from just the format/outline that I have created).
+
+
 Week 6 (due 2/19):
 This week, we held our weekly Tuesday group meeting just after the class session as usual. We decided to stick with the spaces.W3Schools.com hosting platform. Individually, I completed the Use Cases table that I had begun last week, which will help us recognize the distinct needs of each of our app's different user types. Some of us also picked sections of the Project Manual to begin writing a portion of. Tentatively, I am working on the Data/Database section.
 
@@ -31,7 +41,7 @@ In Week 4, I requested and received verbal approval from Dr. Lewis to add Matthe
 We have a very promising project idea, and we are moving past the conceptual stage into design ideas and tools, but unfortunately, we still don't have a team name yet!
 
 (Planning, from Week 3, kept below):
-Our team has tentatively decided to meet each Tuesday immediately after the class meeting. We intend to ask for clarification on the scope of the project assignment this week, and after that we will continue with our planning and and refining of the specifics of the pplication.
+Our team has tentatively decided to meet each Tuesday immediately after the class meeting. We intend to ask for clarification on the scope of the project assignment this week, and after that we will continue with our planning and and refining of the specifics of the application.
 
 We could also come up with a team name, I guess, since we haven't yet!
 
