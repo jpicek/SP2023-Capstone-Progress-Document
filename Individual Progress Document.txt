@@ -6,7 +6,7 @@ Lewis University
 Spring 2023
 
 next up:
-Week 9 (due 3/5):
+Week 9 (due 3/12):
 For next week, we will continue to progress on the Project Manual. We must make progress on the database integration, and the app forms for user account sign-ups. Ideally, we have a working prototype for week 10, at least able to create, read, update, and delete entries into the database. This will allow the site's main functionality, which is searching.
 
 Note: this is mostly unchanged from Week 8 planning. Aside from Project Manual additions, we did not progress much on those goals during the last week, instead discussing other aspects of the app and goals of the presentation.
