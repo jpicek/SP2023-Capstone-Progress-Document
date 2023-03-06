@@ -6,11 +6,25 @@ Lewis University
 Spring 2023
 
 next up:
-Week 8 (due 3/5):
-For next week, we will continue progress on the Project Manual, the database integration, and the app forms for user account sign-ups. Others are working on the application flow and sample charity data to populate the database. We should ideally have a working prototype by week 10, at least able to create, read, update, and delete entries into the database. This will allow the site's main functionality, which is searching.
+Week 9 (due 3/5):
+For next week, we will continue to progress on the Project Manual. We must make progress on the database integration, and the app forms for user account sign-ups. Ideally, we have a working prototype for week 10, at least able to create, read, update, and delete entries into the database. This will allow the site's main functionality, which is searching.
+
+Note: this is mostly unchanged from Week 8 planning. Aside from Project Manual additions, we did not progress much on those goals during the last week, instead discussing other aspects of the app and goals of the presentation.
+
 
 
 completed:
+Week 8 (due 3/5):
+Further work on the database integration could continue until the form pages are made that accept the user's entered data. Instead, Matthew and I devised a Location Comparison method based off the Zip Codes, allowing us to forego usage of something like a GoogleMaps API or other location handling API for our project. Ideally, in a real app, you would use something like that, but we are not planning to, as we have other ideas we are focusing our efforts on.
+
+In addition to that function, we considered whether or not to use Github, and then only transfer files to the W3Spaces site as needed. This would allow us easier collaboration, since downloading the working files from the W3Spaces is not available for the whole team. Finally, we thought ahead to the Presentations for Week 10 and Week 15 because this can help us define the scope of our project. The features that we plan to present (most likely account creation, database integration, and search) must work well, so they must have the most extensive testing.
+
+I added content and formatting to the Project Manual, but this week, Kim made even larger contributions to it than I did.
+
+(Planning, from Week 7, kept below):
+For next week, we will continue progress on the Project Manual, the database integration, and the app forms for user account sign-ups. Others are working on the application flow and sample charity data to populate the database. We should ideally have a working prototype by week 10, at least able to create, read, update, and delete entries into the database. This will allow the site's main functionality, which is searching.
+
+
 Week 7 (due 2/26):
 This week, as a group, we agreed upon most of our exact tools and technologies that will be used. React, JS, and SQL. Most of us, myself included, chose portions of the Project Manual to work on. We discussed the data needed for the tables of the database, which we will need for the app to operate. From there, I created a SQL database based on the agreed upon data.
 
